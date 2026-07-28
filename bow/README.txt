@@ -12,5 +12,5 @@ InsydeDCHU.dll ile MonsterRainbow.exe ayni klasorde kalmalidir.
 Bu surum 80 ms'de bir renk gonderir ve uc ayri timer yerine tek bekleme dongusu
 kullanir. Arayuz, ColorPicker ve MaterialSkin kutuphanelerine ihtiyac duymaz.
 
-Bir hata olursa kayit burada olusur:
-%%LOCALAPPDATA%%\MonsterRainbow\hata.log
+Eğer ilgili adımları yaptığınızda çalışmaz ise kendi control center'ına giriş yapın ardından kapatın bu sorununuzu çözecektir.
+cpunuzu yormayan tasarım yapmaya çalıştım herhangi sorun için issues bölümünden iletişime geçebilirsiniz.
